@@ -1,8 +1,8 @@
 # Flutter BMI Calculator
 <p float="left">
-  <img style="width: 300px; height: 300px;background-position: center center"; src="https://user-images.githubusercontent.com/81976919/113592106-5b689f80-9652-11eb-92be-d64d0eaae336.png" width="33%" />
-  <img src="https://user-images.githubusercontent.com/81976919/113592711-201aa080-9653-11eb-9b10-bafd65b0d2b2.png" width="33%" /> 
-  <img src="https://user-images.githubusercontent.com/81976919/113592912-640da580-9653-11eb-937a-3cfbe93fcb6e.png" width="33%" />
+  <img src="https://user-images.githubusercontent.com/81976919/113594317-2873db00-9655-11eb-9e7b-3d29c2f1c5da.png" width="33%" />
+  <img src="https://user-images.githubusercontent.com/81976919/113594387-42adb900-9655-11eb-8daa-d67e5d4c9b3d.png" width="33%" /> 
+  <img src="https://user-images.githubusercontent.com/81976919/113594430-535e2f00-9655-11eb-9c37-a26f46729e13.png" width="33%" />
 </p>
 
 
