@@ -1,6 +1,6 @@
 # flutter_app
 
-[![Screenshot-20210405-205420.png](https://user-images.githubusercontent.com/81976919/113592106-5b689f80-9652-11eb-92be-d64d0eaae336.png)]
+[![Screenshot-20210405-205420.png](https://user-images.githubusercontent.com/81976919/113592106-5b689f80-9652-11eb-92be-d64d0eaae336.png),(https://user-images.githubusercontent.com/81976919/113592711-201aa080-9653-11eb-9b10-bafd65b0d2b2.png)]
 
 ## Getting Started
 
